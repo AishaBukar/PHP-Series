@@ -1,7 +1,7 @@
 <?php
-$name=" My name is";
-$firstName= "12";
-$lastName= "Bukar";
+$name= " ";
+$firstName= "Aisha ";
+$lastName= "Bukar Awobadejo";
 
 function someFunction() {
     //You can declare it like this too
